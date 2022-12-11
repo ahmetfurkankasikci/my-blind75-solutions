@@ -1,6 +1,6 @@
 ## LeetCode Blind Curated 75
 
-### 04 / 75
+### 05 / 75
 
 **Problem** | **Difficulty** | **Solution + Write-up**
 -- | :-: | :-:
